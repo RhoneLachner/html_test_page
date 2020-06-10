@@ -25,6 +25,7 @@ body {
 
 
 .galleryItem {
+    margin: 10px 10px;
 } 
 .dispayFlex {
     display: flex;
@@ -64,8 +65,7 @@ section {
     align-items: center;
     padding-top: var(--gutter);
     padding-bottom: var(--gutter);
-    margin-top: var(--gutter);
-    margin-bottom: var(--gutter);
+   margin: 0 auto;
     border: solid 2px var(--color1);
 }
 
